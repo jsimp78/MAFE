@@ -1,69 +1,107 @@
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\MAFE.Android.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\MAFE.Android.pdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\MAFE.Android.apk
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\MAFE.Android-Signed.apk
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\FormsViewGroup.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Android.Support.Design.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Android.Support.v4.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Forms.Core.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Forms.Platform.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Forms.Xaml.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\FormsViewGroup.pdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Forms.Core.pdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Forms.Core.xml
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Forms.Xaml.xml
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\MAFE.Droid.MainPage.xaml.g.cs
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\MAFE.Droid.App.xaml.g.cs
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\MAFE.Android.dll
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\MAFE.Android.pdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\bin\MAFE.Android.apk
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\res\drawable\icon.png
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\res\layout\tabbar.xml
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\res\layout\toolbar.xml
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\res\values\styles.xml
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\R.cs.flag
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\uploadflags.txt
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\FormsViewGroup.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\simpkinj\documents\visual studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\MAFE.Android.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\MAFE.Android.csprojResolveAssemblyReference.cache
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Java.Interop.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\Mono.Android.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\mscorlib.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\System.Core.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\System.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\System.Net.Http.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\System.Runtime.Serialization.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\System.Xml.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\System.Xml.Linq.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\Java.Interop.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\MAFE.Android.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\Mono.Android.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\mscorlib.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\System.Core.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\System.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\System.Xml.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\obj\Debug\MAFE.Android.dll.mdb
-C:\Users\simpkinj\Documents\Visual Studio 2017\Projects\MAFE\MAFE\MAFE.Android\bin\Debug\MAFE.Android.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/MAFE.Android.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/MAFE.Android.pdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/MAFE.Android.apk
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/MAFE.Android-Signed.apk
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/FormsViewGroup.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.Design.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.v4.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Core.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Platform.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Xaml.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/FormsViewGroup.pdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Core.pdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Core.xml
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Xaml.xml
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/MAFE.Droid.MainPage.xaml.g.cs
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/MAFE.Droid.App.xaml.g.cs
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/MAFE.Android.dll
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/MAFE.Android.pdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/bin/MAFE.Android.apk
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/res/drawable/icon.png
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/res/layout/tabbar.xml
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/res/layout/toolbar.xml
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/res/values/styles.xml
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/R.cs.flag
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/uploadflags.txt
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/FormsViewGroup.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Core.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/simpkinj/documents/visual studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/MAFE.Android.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/MAFE.Android.csprojResolveAssemblyReference.cache
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Java.Interop.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/Mono.Android.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/mscorlib.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/System.ComponentModel.Composition.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/System.Core.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/System.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/System.Net.Http.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/System.Runtime.Serialization.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/System.ServiceModel.Internals.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/System.Xml.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/bin/Debug/System.Xml.Linq.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/FormsViewGroup.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/Java.Interop.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/MAFE.Android.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/Mono.Android.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/mscorlib.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/System.ComponentModel.Composition.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/System.Core.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/System.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/System.Net.Http.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/System.Xml.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/System.Xml.Linq.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/Xamarin.Forms.Core.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/Xamarin.Forms.Platform.Android.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/android/assets/Xamarin.Forms.Xaml.dll.mdb
+C:/Users/simpkinj/Documents/Visual Studio 2017/Projects/MAFE/MAFE/MAFE.Android/obj/Debug/MAFE.Android.dll.mdb
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/MAFE.Android.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/MAFE.Android.pdb
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/MAFE.Android.apk
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/MAFE.Android-Signed.apk
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/FormsViewGroup.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.Design.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.v7.CardView.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.v7.MediaRouter.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Core.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/FormsViewGroup.pdb
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/FormsViewGroup.dll.mdb
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Core.xml
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/bin/Debug/Xamarin.Forms.Xaml.xml
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/obj/Debug/MAFE.Android.csproj.CoreCompileInputs.cache
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/obj/Debug/MAFE.Droid.MainPage.xaml.g.cs
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/obj/Debug/MAFE.Droid.App.xaml.g.cs
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/obj/Debug/MAFE.Android.dll
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/obj/Debug/MAFE.Android.pdb
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/obj/Debug/android/bin/MAFE.Android.apk
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/obj/Debug/res/drawable/icon.png
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/obj/Debug/res/layout/tabbar.xml
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/obj/Debug/res/layout/toolbar.xml
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/obj/Debug/res/values/styles.xml
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/obj/Debug/R.cs.flag
+/Users/chris/Projects/jsimp78/MAFE/MAFE/MAFE.Android/obj/Debug/uploadflags.txt

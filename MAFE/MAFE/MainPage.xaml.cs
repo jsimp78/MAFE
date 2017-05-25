@@ -13,5 +13,13 @@ namespace MAFE
 		{
 			InitializeComponent();
 		}
-	}
+
+        void Handle_Clicked(object sender, System.EventArgs e)
+        {
+            DisplayAlert("Hey Now!", 
+                         "This is a longer message than Hey Now. " +
+                         "It serves to show what can be displayed in the Message property.",
+                         "OK");
+        }
+    }
 }
